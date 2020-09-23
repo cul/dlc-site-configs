@@ -3,8 +3,8 @@ publisher_uri: info:fedora/cul:3xsj3txbtq
 title: Hubert H. Harrison papers
 repository_id: NNC-RB
 search_type: catalog
-layout: gallery
-palette: steel
+layout: signature
+palette: monochromeLight
 image_uris: 
 - info:fedora/cul:5hqbzkh2w9
 constraints:
