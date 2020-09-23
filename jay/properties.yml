@@ -1,0 +1,62 @@
+slug: jay
+publisher_uri: info:fedora/cul:80gb5mkm8v
+title: The Papers of John Jay
+search_type: local
+layout: signature
+palette: parchment
+constraints:
+  publisher:
+    - info:fedora/cul:80gb5mkm8v
+nav_links:
+  - sort_label: Biographical Essay
+    sort_group: 00:Background Material
+    external: false
+    link: biography
+  - sort_label: Jay and the Constitution
+    sort_group: 00:Background Material
+    external: false
+    link: jay_constitution
+  - sort_label: Jay and New York
+    sort_group: 00:Background Material
+    external: false
+    link: jayandny
+  - sort_label: The Jay Treaty
+    sort_group: 00:Background Material
+    external: false
+    link: jaytreaty
+  - sort_label: Jay and France
+    sort_group: 00:Background Material
+    external: false
+    link: jayandfrance
+  - sort_label: Jay and Slavery
+    sort_group: 00:Background Material
+    external: false
+    link: jayandslavery
+  - sort_label: Jay Print Project
+    sort_group: 00:Background Material
+    external: true
+    link: http://library.columbia.edu/locations/rbml/units/jayprint.html
+  - sort_label: Legacy Conference
+    sort_group: 00:Background Material
+    external: true
+    link: http://www.columbia.edu/cu/lweb/conferences/2004/john_jay/
+  - sort_label: History & Description
+    sort_group: 01:About the Project
+    external: false
+    link: about
+  - sort_label: Source Collections
+    sort_group: 01:About the Project
+    external: false
+    link: collection
+  - sort_label: Bibliography
+    sort_group: 01:About the Project
+    external: false
+    link: bibliography
+  - sort_label: Rights & Permissions
+    sort_group: 01:About the Project
+    external: true
+    link: http://library.columbia.edu/about/policies/copyright-online-collections.html
+  - sort_label: Participating Institutions
+    sort_group: 01:About the Project
+    external: false
+    link: participating_institutions

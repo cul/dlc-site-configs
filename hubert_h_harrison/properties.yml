@@ -1,0 +1,33 @@
+slug: hubert_h_harrison
+publisher_uri: info:fedora/cul:3xsj3txbtq
+title: Hubert H. Harrison papers
+repository_id: NNC-RB
+search_type: catalog
+layout: gallery
+palette: steel
+image_uris: 
+- info:fedora/cul:5hqbzkh2w9
+constraints:
+  project:
+    - Hubert H. Harrison papers
+nav_links:
+- sort_label: About
+  sort_group: '00:'
+  external: false
+  link: about
+- sort_label: '00:Hubert H. Harrison Papers, 1893-1927, Rare Book & Manuscript Library, Columbia University'
+  sort_group: 01:See Also
+  external: true
+  link: https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_6134799
+- sort_label: '01:Hubert H. Harrison, When Africa awakes: The "inside story" of the stirrings and strivings of the New Negro in the western world (New York : Diasporic Africa Press, 2015)'
+  sort_group: 01:See Also
+  external: true
+  link: https://clio.columbia.edu/catalog/12475297
+- sort_label: '02:Hubert H. Harrison, A Hubert Harrison Reader (Middletown, Conn.: Wesleyan University Press, 2001)'
+  sort_group: 01:See Also
+  external: true
+  link: https://clio.columbia.edu/catalog/3029677
+- sort_label: '03:Jeffrey B. Perry, Hubert Harrison: The Voice of Harlem Radicalism, 1883-1918 (New York: Columbia University Press, 2009)'
+  sort_group: 01:See Also
+  external: true
+  link: https://clio.columbia.edu/catalog/6988057

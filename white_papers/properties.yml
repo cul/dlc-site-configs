@@ -1,0 +1,27 @@
+---
+slug: white_papers
+title: Wilbert Webster White papers
+persistent_url: https://library.columbia.edu/resolve/clio7665773
+publisher_uri: info:fedora/cul:h44j0zpcp6
+image_uris:
+- info:fedora/cul:pzgmsbccfp
+repository_id: NyNyCBL
+layout: portrait
+palette: monochromeDark
+search_type: catalog
+restricted: false
+constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  project:
+  - Wilbert Webster White Papers
+map_search:
+date_search:
+alternative_title:
+nav_links:
+- sort_label: About
+  sort_group: '01:See Also'
+  external: false
+  link: about
+- sort_label: '00:Finding Aid'
+  sort_group: 01:See Also
+  external: true
+  link: http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=7188365

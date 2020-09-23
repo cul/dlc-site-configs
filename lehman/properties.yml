@@ -1,0 +1,33 @@
+slug: lehman
+title: Lehman special correspondence files
+persistent_url: https://library.columbia.edu/resolve/clio6606869
+publisher_uri: info:fedora/cul:5qfttdz0mv
+image_uris: 
+  - info:fedora/cul:rxwdbrv1m8
+repository_id: 
+layout: signature
+palette: monochromeLight
+search_type: local
+restricted: false
+constraints:
+  publisher:
+  - info:fedora/cul:5qfttdz0mv
+map_search: 
+date_search: 
+nav_links:
+  - sort_label: About The Project
+    sort_group: 00:About
+    link: about
+    external: false
+  - sort_label: 00:Lehman Collections at Columbia 
+    sort_group: 01:Related Resources
+    link: http://library.columbia.edu/locations/rbml/units/lehman.html
+    external: true
+  - sort_label: 01:Archival Finding Aid 
+    sort_group: 01:Related Resources
+    link: https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_4078518/
+    external: true
+  - sort_label: FAQ
+    sort_group: '02:'
+    link: faq
+    external: false

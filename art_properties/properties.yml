@@ -1,0 +1,45 @@
+---
+slug: art_properties
+title: Art Properties
+persistent_url: https://library.columbia.edu/resolve/clio14242428
+publisher_uri: info:fedora/cul:wm37pvmfq6
+image_uris: 
+  - info:fedora/cul:f4qrfj6rws
+  - info:fedora/cul:j0zpc868nw
+  - info:fedora/cul:cfxpnvx2dv
+  - info:fedora/cul:tqjq2bvs3k
+  - info:fedora/cul:xpnvx0k8bv
+  - info:fedora/cul:w0vt4b8jpk
+  - info:fedora/cul:z34tmpg675
+  - info:fedora/cul:573n5tb4jp
+  - info:fedora/cul:2fqz612mgs
+  - info:fedora/cul:kkwh70s0qk
+  - info:fedora/cul:d51c59zxwz
+repository_id: NyNyCAP
+layout: portrait
+palette: blue
+search_type: catalog
+restricted: false
+constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  project:
+  - Art Properties -- Columbia’s Art Collection Online
+map_search:
+date_search:
+alternative_title: Columbia’s Art Collection Online
+nav_links:
+- sort_label: 00:Example Help Page
+  sort_group: 00:Help
+  link: help
+  external: false
+- sort_label: 01:Image Requests
+  sort_group: 00:Help
+  link: https://library.columbia.edu/libraries/avery/art-properties.html#imagerequests
+  external: true
+- sort_label: 00:Art Properties website
+  sort_group: 00:Learn More
+  link: https://library.columbia.edu/libraries/avery/art-properties.html
+  external: true
+- sort_label: 01:Art Properties in the Columbia Libraries catalog
+  sort_group: 00:Learn More
+  link: https://clio.columbia.edu/catalog?q=art+properties&amp;search_field=location&amp;commit=Search
+  external: true

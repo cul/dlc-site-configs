@@ -1,0 +1,24 @@
+---
+slug: tibetan_collection
+title: Tibetan Studies Special Collections
+persistent_url: https://library.columbia.edu/resolve/clio14007533
+publisher_uri: info:fedora/cul:3n5tb2rddt
+image_uris:
+- info:fedora/cul:1ns1rn8rhr
+repository_id:
+layout: gallery
+palette: steel
+search_type: catalog
+restricted: false
+constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  project:
+  - Tibetan Studies Special Collections at Columbia University
+map_search:
+date_search:
+alternative_title:
+nav_links:
+- sort_label: 00:The Tharchin Collection, 1901-1975, C.V. Starr East Asian Library,
+    Columbia University
+  sort_group: 00:See Also
+  link: https://findingaids.library.columbia.edu/ead/nnc-ea/ldpd_6905093
+  external: true
