@@ -1,0 +1,27 @@
+---
+slug: serlio
+title: Sebastiano Serlio -- On domestic architecture
+persistent_url: https://library.columbia.edu/resolve/clio13534401
+publisher_uri: info:fedora/cul:0vt4b8gw1z
+image_uris:
+- info:fedora/cul:kkwh70s0gz
+repository_id:
+layout: signature
+palette: monochromeDark
+search_type: catalog
+restricted: false
+constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  project:
+  - Sebastiano Serlio -- On domestic architecture
+map_search:
+date_search:
+alternative_title:
+nav_links:
+- sort_label: 00:About
+  sort_group: '00:'
+  external: false
+  link: about
+- sort_label: 00:Digital Serlio Project website
+  sort_group: 01:See Also
+  link: https://library.columbia.edu/locations/avery/digitalserlio.html
+  external: true

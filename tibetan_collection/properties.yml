@@ -6,8 +6,8 @@ publisher_uri: info:fedora/cul:3n5tb2rddt
 image_uris:
 - info:fedora/cul:1ns1rn8rhr
 repository_id:
-layout: gallery
-palette: steel
+layout: portrait
+palette: monochromeDark
 search_type: catalog
 restricted: false
 constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -17,8 +17,12 @@ map_search:
 date_search:
 alternative_title:
 nav_links:
+- sort_label: About
+  sort_group: '00:'
+  external: false
+  link: about
 - sort_label: 00:The Tharchin Collection, 1901-1975, C.V. Starr East Asian Library,
     Columbia University
-  sort_group: 00:See Also
+  sort_group: 01:See Also
   link: https://findingaids.library.columbia.edu/ead/nnc-ea/ldpd_6905093
   external: true

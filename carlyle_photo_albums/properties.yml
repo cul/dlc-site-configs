@@ -1,0 +1,35 @@
+---
+slug: carlyle_photo_albums
+title: Carlyle family photograph albums
+persistent_url: https://library.columbia.edu/resolve/clio14401451
+publisher_uri: info:fedora/cul:xpnvx0k8dr
+image_uris:
+- info:fedora/cul:c59zw3r3zn
+repository_id:
+layout: gallery
+palette: blue
+search_type: catalog
+restricted: false
+constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  project:
+  - Carlyle Photo Albums
+map_search:
+date_search:
+alternative_title:
+nav_links:
+- sort_label: About
+  sort_group: '00:'
+  external: false
+  link: about
+- sort_label: 00:Carlyle family photograph albums via Internet Archive
+  sort_group: 01:See Also
+  link: https://clio.columbia.edu/catalog/13015100
+  external: true
+- sort_label: 01:Thomas Carlyle papers, 1865-1896
+  sort_group: 01:See Also
+  link: https://clio.columbia.edu/catalog/4078583
+  external: true
+- sort_label: 02:The Carlyle Letters Online
+  sort_group: 01:See Also
+  link: https://carlyleletters.dukeupress.edu/home
+  external: true

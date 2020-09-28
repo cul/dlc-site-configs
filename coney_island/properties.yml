@@ -1,0 +1,32 @@
+---
+slug: coney_island
+title: Photographs from the Frederick Fried Coney Island collection
+persistent_url: https://library.columbia.edu/resolve/clio14634249
+publisher_uri: info:fedora/cul:pzgmsbcf1r
+image_uris:
+- info:fedora/cul:41ns1rnbp2
+repository_id:
+layout: gallery
+palette: monochromeLight
+search_type: catalog
+restricted: false
+constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  project:
+  - Photographs from the Frederick Fried Coney Island collection
+map_search:
+date_search:
+alternative_title:
+nav_links:
+- sort_label: About
+  sort_group: '00:'
+  external: false
+  link: about
+- sort_label: 00:Finding Aid for the Frederick Fried Coney Island collection, 1847-2001
+  sort_group: 01:See Also
+  link: https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_8857048
+  external: true
+- sort_label: 01:Rare Book & Manuscript Library Acquires Frederick Fried Coney Island
+    Collection
+  sort_group: 01:See Also
+  link: https://library.columbia.edu/about/news/libraries/2015/2015-2-5_Press_Release_Frederick_Fried.html
+  external: true

@@ -1,0 +1,3 @@
+McKim, Mead & White was one of the preeminent New York architectural firms at the turn of the twentieth century. They worked in a neo-classical style heavily influenced by the teachings of the École des Beaux-Arts in Paris. The original Pennsylvania Station railroad terminal and the campus of Columbia University number among their most well-known projects. Forty-three photographic albums of their work reside in Avery Classics.
+
+[Read more »](/mmw_photographs/about)

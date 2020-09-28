@@ -1,0 +1,35 @@
+---
+slug: mmw_photographs
+title: McKim, Mead & White photo albums
+persistent_url: https://library.columbia.edu/resolve/clio14621655
+publisher_uri: info:fedora/cul:hx3ffbg98f
+image_uris:
+- info:fedora/cul:k6djh9w2wm
+repository_id:
+layout: portrait
+palette: monochromeLight
+search_type: catalog
+restricted: false
+constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  project:
+  - McKim, Mead & White photo albums
+map_search:
+date_search:
+alternative_title:
+nav_links:
+- sort_label: About
+  sort_group: '00:'
+  external: false
+  link: about
+- sort_label: 00:McKim Mead & White architectural records and drawings, 1879-1958
+  sort_group: 01:See Also
+  link: https://clio.columbia.edu/catalog/3460633
+  external: true
+- sort_label: 01:Stanford White correspondence and architectural drawings, 1887-1922
+  sort_group: 01:See Also
+  link: https://clio.columbia.edu/catalog/3460603
+  external: true
+- sort_label: 02:Columbia University architectural drawings, 1888-1957
+  sort_group: 01:See Also
+  link: https://clio.columbia.edu/catalog/3460552
+  external: true

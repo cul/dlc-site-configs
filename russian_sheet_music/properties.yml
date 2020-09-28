@@ -1,0 +1,28 @@
+---
+slug: russian_sheet_music
+title: Russian and early Soviet sheet music
+persistent_url: https://library.columbia.edu/resolve/clio12570342
+publisher_uri: info:fedora/cul:76hdr7sr79
+image_uris:
+- info:fedora/cul:vx0k6djhtb
+repository_id:
+layout: gallery
+palette: monochromeDark
+search_type: catalog
+restricted: false
+constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  project:
+  - Russian and Early Soviet Sheet Music
+map_search:
+date_search:
+alternative_title:
+nav_links:
+- sort_label: 00:About
+  sort_group: '00:'
+  external: false
+  link: about
+- sort_label: 01:Finding Aid
+  sort_group: '01:'
+  external: true
+  link: https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_10290450
+

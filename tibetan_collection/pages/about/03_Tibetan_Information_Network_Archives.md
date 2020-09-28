@@ -1,0 +1,1 @@
+Records from the London headquarters office of the news and research service founded by Robert Barnett and Nick Howen in 1988, including administrative files, TIN publications, and research files on social and poitical conditions in Tibetan regions of the People's Republic of China, primarily from 1989-2001.
