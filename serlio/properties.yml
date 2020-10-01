@@ -15,7 +15,7 @@ constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   - Sebastiano Serlio -- On domestic architecture
 map_search:
 date_search:
-alternative_title:
+alternative_title: "(Tutte l'opere d'architettura, Libro VI), c.1550"
 nav_links:
 - sort_label: 00:About
   sort_group: '00:'
