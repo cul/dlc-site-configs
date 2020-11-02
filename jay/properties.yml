@@ -1,9 +1,9 @@
 slug: jay
 publisher_uri: info:fedora/cul:80gb5mkm8v
 title: The Papers of John Jay
-search_type: local
+search_type: custom
 layout: signature
-palette: parchment
+palette: blue
 constraints:
   publisher:
     - info:fedora/cul:80gb5mkm8v

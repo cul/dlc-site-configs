@@ -6,8 +6,8 @@ publisher_uri: info:fedora/cul:3n5tb2rddt
 image_uris:
 - info:fedora/cul:1ns1rn8rhr
 repository_id:
-layout: gallery
-palette: steel
+layout: portrait
+palette: default
 search_type: catalog
 restricted: false
 constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess

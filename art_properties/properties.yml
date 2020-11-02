@@ -27,10 +27,6 @@ map_search:
 date_search:
 alternative_title: Columbia’s Art Collection Online
 nav_links:
-- sort_label: 00:Example Help Page
-  sort_group: 00:Help
-  link: help
-  external: false
 - sort_label: 01:Image Requests
   sort_group: 00:Help
   link: https://library.columbia.edu/libraries/avery/art-properties.html#imagerequests
