@@ -4,6 +4,7 @@ title: The Papers of John Jay
 search_type: custom
 layout: signature
 palette: blue
+show_facets: true
 constraints:
   publisher:
     - info:fedora/cul:80gb5mkm8v

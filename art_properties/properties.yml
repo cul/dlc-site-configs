@@ -20,6 +20,7 @@ layout: portrait
 palette: blue
 search_type: catalog
 restricted: false
+show_facets: false
 constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   project:
   - Art Properties -- Columbia’s Art Collection Online
