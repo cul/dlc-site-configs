@@ -7,7 +7,7 @@ image_uris:
 repository_id: 
 layout: signature
 palette: monochromeLight
-search_type: local
+search_type: custom
 restricted: false
 constraints:
   publisher:

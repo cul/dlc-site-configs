@@ -8,7 +8,7 @@ image_uris:
 repository_id:
 layout: portrait
 palette: monochromeDark
-search_type: catalog
+search_type: local
 restricted: false
 constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   project:
