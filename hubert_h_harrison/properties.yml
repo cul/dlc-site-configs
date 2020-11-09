@@ -5,6 +5,7 @@ repository_id: NNC-RB
 search_type: local
 layout: signature
 palette: blue
+show_facets: true
 image_uris: 
 - info:fedora/cul:5hqbzkh2w9
 constraints:

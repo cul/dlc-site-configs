@@ -19,6 +19,7 @@ repository_id: NyNyCAP
 layout: portrait
 palette: blue
 search_type: local
+show_facets: false
 restricted: false
 constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   project:

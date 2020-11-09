@@ -8,6 +8,7 @@ repository_id:
 layout: signature
 palette: monochromeLight
 search_type: custom
+show_facets: false
 restricted: false
 constraints:
   publisher:

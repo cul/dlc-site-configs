@@ -9,6 +9,7 @@ repository_id:
 layout: portrait
 palette: monochromeLight
 search_type: local
+show_facets: false
 restricted: false
 constraints: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   project:
