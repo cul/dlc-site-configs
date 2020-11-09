@@ -21,8 +21,11 @@ nav_links:
   sort_group: '00:'
   external: false
   link: about
-- sort_label: 00:The Tharchin Collection, 1901-1975, C.V. Starr East Asian Library,
-    Columbia University
-  sort_group: 01:See Also
+- sort_label: 01:The Tharchin Collection at C.V. Starr
+  sort_group: 01:The Tharchin Collection, 1901-1975
+  link: https://library.columbia.edu/libraries/eastasian/special_collections/tibetan-rare-books---special-collections/tharchin.html
+  external: true
+- sort_label: 01:Archival Finding Aid
+  sort_group: 01:The Tharchin Collection, 1901-1975
   link: https://findingaids.library.columbia.edu/ead/nnc-ea/ldpd_6905093
   external: true
