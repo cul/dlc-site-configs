@@ -1,0 +1,52 @@
+---
+slug: amiri_baraka
+title: Amiri Baraka Papers and Audio-Visual Collection
+persistent_url: 
+publisher_uri: info:fedora/cul:bk3j9kd733
+image_uris:
+- info:fedora/cul:n02v6wws3p
+repository_id: 
+layout: default
+palette: default
+search_type: catalog
+restricted: false
+permissions:
+  remote_ids: []
+  remote_roles: []
+  locations: []
+map_search: 
+date_search: 
+alternative_title: ''
+show_facets: false
+editor_uids:
+- ces2272
+- mm5362
+search_configuration:
+  date_search_configuration: {}
+  display_options:
+    default_search_mode: grid
+    show_csv_results: false
+    show_original_file_download: false
+    show_other_sources: false
+  facets: []
+  map_configuration:
+    enabled: false
+  search_fields:
+  - type: keyword
+    label: All Fields
+scope_filters:
+- filter_type: collection
+  value: Amiri Baraka Papers
+nav_links:
+- sort_label: 00:Research Guide Overview
+  sort_group: 00:Research Guide Overview
+  link: about
+  external: false
+- sort_label: 00:Poetry, Political Activism, and Community Organizing
+  sort_group: 01:Poetry, Political Activism, and Community Organizing
+  link: research_guide
+  external: false
+- sort_label: 00:Film and Media Experiments
+  sort_group: 02:Film and Media Experiments
+  link: research_guide_2
+  external: 

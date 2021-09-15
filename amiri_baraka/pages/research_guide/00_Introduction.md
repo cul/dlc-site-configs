@@ -1,0 +1,13 @@
+The RBML’s collection is especially strong in materials dating from the 1960s when Leroi Jones entered New York City’s downtown poetry scene and gained notice  for plays and essays including Dutchman and the Slave and Blues People. Collected here are poetry readings, television interviews, radio broadcasts, footage from political workshops, and audio recordings that bear witness to Jones’ artistic, political, and spiritual transformation into Amiri Baraka, militant Black Nationalist and community organizer. The 1970s saw Baraka move to Newark, New Jersey, where he became a public leader in the struggle to build political power for the African-American community. Baraka read poetry and delivered addresses at events in support of the Black Panthers, the Congress of African Peoples and the Committee for a Unified Newark (CFUN), appearing regularly on the local radio show, “Black Newark,” to discuss a range of topics from teachers’ strikes to the origins of Kwanzaa. Newly digitized materials illustrate Baraka's interest in the relationship between archives and politics. The collection includes recordings of workshops at Black radical conferences; film reels depicting political organizing around the Kawaida Towers project in Newark; documentation of speeches, performances, and readings at the Newark Afrikan Free School and other public demonstrations. Baraka used film and video recordings to build an archive of political  pedagogy and activist struggle. An active auteur who wanted to know how the camera works, and how it focuses attention, Baraka explored political and artistic spaces through his ranging poetic eye.
+
+Researchers in the Baraka collection will discover archives of poetic and documentary artifacts that enable new perspectives on a key figure of twentieth-century American poetry and black radicalism. Each research cluster provides short descriptions highlighting areas of interest in the collection and individual item numbers that correspond to the Butler’s digital archive. Date, location, medium, and file quality are noted where possible.  These highlighted clusters represent only a fraction of all recordings in the digital archive. Some researchers will find these materials provocative, challenging, or upsetting, as Baraka could employ invective in his critiques of systematic white oppression. In reflecting the  complicated trajectory of Baraka's political life, this collection not only highlights how his rhetoric and ideological positions transformed over time, but also invites researchers to complicate interpretations of Baraka based on singular moments in his activist and artistic career.
+
+
+
+<br>  
+
+
+
+
+
+
